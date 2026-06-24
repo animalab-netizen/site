@@ -1,0 +1,76 @@
+:root {
+  color-scheme: light;
+  --bg: #f4efe7;
+  --bg-accent: #e9dfd0;
+  --ink: #13231a;
+  --muted: #516457;
+  --ring: #db5d31;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Avenir Next", Avenir, "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at top, rgba(219, 93, 49, 0.16), transparent 32%),
+    linear-gradient(135deg, var(--bg), var(--bg-accent));
+  color: var(--ink);
+}
+
+.hero {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 2rem;
+}
+
+.logo {
+  display: inline-flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.3rem 1.6rem;
+  border: 1px solid rgba(19, 35, 26, 0.12);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.52);
+  box-shadow: 0 18px 60px rgba(19, 35, 26, 0.08);
+  backdrop-filter: blur(12px);
+}
+
+.logo-mark {
+  width: 2.9rem;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 32% 30%, #f9f2e6 0 18%, transparent 19%),
+    radial-gradient(circle at 68% 68%, #13231a 0 14%, transparent 15%),
+    linear-gradient(160deg, #db5d31, #e58f31 46%, #13231a 100%);
+  box-shadow: 0 0 0 0.32rem rgba(219, 93, 49, 0.14);
+}
+
+.logo-text {
+  font-size: clamp(2rem, 6vw, 4.4rem);
+  line-height: 1;
+  letter-spacing: 0.22em;
+  text-transform: lowercase;
+  color: var(--ink);
+}
+
+@media (max-width: 640px) {
+  .logo {
+    gap: 0.8rem;
+    padding: 1rem 1.1rem;
+  }
+
+  .logo-text {
+    font-size: clamp(1.3rem, 9vw, 2.2rem);
+    letter-spacing: 0.14em;
+  }
+
+  .logo-mark {
+    width: 2.2rem;
+  }
+}
