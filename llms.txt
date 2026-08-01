@@ -1,0 +1,38 @@
+# Ânima Lab
+
+> Empresa de desenvolvimento de software, produtos digitais e consultoria em tecnologia.
+
+Site oficial: https://animalab-netizen.github.io/site/
+Contato comercial: animalab.desenvolvimento@gmail.com
+Idioma principal: português do Brasil
+Área de atendimento: Brasil
+
+## O que a Ânima Lab faz
+
+- Desenvolvimento de software sob medida para web, mobile, backend, APIs e integrações.
+- Descoberta e estratégia de produtos digitais.
+- Arquitetura de software e desenvolvimento multiplataforma.
+- Modernização incremental de sistemas legados.
+- Esteiras CI/CD, infraestrutura como código e plataformas de engenharia.
+- Qualidade, segurança, observabilidade e confiabilidade de software.
+- Consultoria técnica, governança de engenharia e mentoria aplicada a produtos.
+
+## Produtos e ecossistemas
+
+- ODE: runtime open source para estruturar fluxos de aplicação e regras de negócio.
+  https://animalab-netizen.github.io/ode-website/
+- DrManhatan: ecossistema open source de observabilidade multi-runtime.
+  https://animalab-netizen.github.io/drmanhatan-website/
+- MySnack: plataforma digital para cardápios e pedidos em praças de alimentação.
+  https://mysnack-client-6fb29.web.app
+- GroupBy: plataforma geolocalizada com canais contextuais e eventos em tempo real.
+  https://groupby-me.web.app
+- ARKANUM: jogo narrativo multiplataforma.
+  https://arkanum-guildas-de-reliquias.web.app/
+
+## Contratação
+
+A Ânima Lab atende organizações que precisam criar produtos digitais, desenvolver software sob
+medida, modernizar sistemas legados ou melhorar arquitetura, qualidade e esteiras de entrega.
+Para iniciar uma conversa, escreva para animalab.desenvolvimento@gmail.com com o contexto, o
+problema e o resultado esperado.

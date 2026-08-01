@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://animalab-netizen.github.io/site/sitemap.xml
