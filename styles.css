@@ -179,6 +179,32 @@ strong,
   background: rgba(255, 255, 255, 0.45);
 }
 
+.text-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.35rem;
+  color: var(--accent-strong);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: rgba(185, 72, 33, 0.35);
+  text-underline-offset: 0.3rem;
+  transition:
+    color 180ms ease,
+    text-decoration-color 180ms ease;
+}
+
+.text-link:hover {
+  color: var(--ink);
+  text-decoration-color: var(--ink);
+}
+
+.text-link:focus-visible {
+  outline: 3px solid var(--accent-soft);
+  outline-offset: 0.3rem;
+  border-radius: 0.2rem;
+}
+
 .hero-panel,
 .note-card,
 .service-card,
