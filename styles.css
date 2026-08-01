@@ -153,11 +153,14 @@ strong,
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  max-width: 100%;
   min-height: 3.2rem;
   padding: 0.9rem 1.35rem;
   border-radius: 999px;
   border: 1px solid transparent;
   font-weight: 700;
+  overflow-wrap: anywhere;
+  text-align: center;
   transition:
     transform 180ms ease,
     box-shadow 180ms ease,
@@ -283,6 +286,12 @@ strong,
   line-height: 1;
 }
 
+.section-intro {
+  max-width: 62ch;
+  margin: 1rem 0 0;
+  font-size: 1.08rem;
+}
+
 .two-column {
   display: grid;
   grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
@@ -319,6 +328,16 @@ strong,
 .evidence-card {
   padding: 1.35rem;
   border-radius: 1.5rem;
+}
+
+.evidence-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.evidence-card .text-link {
+  margin-top: auto;
+  padding-top: 0.75rem;
 }
 
 .service-card ul {
