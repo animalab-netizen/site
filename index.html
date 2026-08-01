@@ -9,8 +9,8 @@
       name="description"
       content="A Ânima Lab projeta, desenvolve e evolui produtos de software, arquiteturas e esteiras de desenvolvimento com método, qualidade e visão de produto."
     />
-    <link rel="stylesheet" href="./styles.css?v=20260801" />
-    <script src="./script.js?v=20260801" defer></script>
+    <link rel="stylesheet" href="./styles.css?v=20260801-2" />
+    <script src="./script.js?v=20260801-2" defer></script>
   </head>
   <body>
     <a class="skip-link" href="#conteudo">Ir para o conteúdo</a>
@@ -32,8 +32,8 @@
       <main id="conteudo">
         <section class="hero">
           <div class="hero-copy">
-            <p class="eyebrow">Produtos digitais criados para operar e evoluir.</p>
-            <h1>Construímos software que transforma estratégia em produto.</h1>
+            <p class="eyebrow">Produto, engenharia e operação.</p>
+            <h1>Transformamos estratégia em software que evolui.</h1>
             <p class="lead">
               A Ânima Lab combina visão de produto, arquitetura e engenharia para criar, modernizar
               e operar soluções digitais. Conheça nossos produtos, plataformas e ecossistemas
@@ -77,7 +77,7 @@
           </aside>
         </section>
 
-        <section class="section company-explorer" aria-labelledby="explorer-title">
+        <section class="section company-explorer" id="sobre" aria-labelledby="explorer-title">
           <div class="explorer-heading">
             <div>
               <p class="eyebrow">Conheça a Ânima Lab</p>
@@ -199,131 +199,118 @@
           </div>
         </section>
 
-        <section class="section" id="sobre">
-          <div class="section-heading">
-            <p class="eyebrow">Sobre a Ânima Lab</p>
-            <h2>Da pergunta certa ao software em produção.</h2>
-          </div>
-          <div class="two-column">
-            <div>
-              <p>
-                Nem todo desafio de negócio pede mais código. Alguns pedem descoberta, outros
-                arquitetura, automação ou uma esteira de entrega mais confiável.
-              </p>
-              <p>
-                A Ânima Lab é um laboratório de engenharia e produtos de software. Trabalhamos da
-                definição do problema à operação, conectando decisões de produto, design técnico,
-                desenvolvimento e evolução contínua.
-              </p>
-              <p>
-                Construímos produtos digitais, modernizamos sistemas e organizamos plataformas e
-                processos de engenharia. Cada solução nasce do contexto do negócio e evolui com
-                critérios explícitos de qualidade, segurança, observabilidade e manutenção.
-              </p>
-            </div>
-            <div class="note-card">
-              <h3>Como pensamos tecnologia</h3>
-              <p>
-                Software é um produto vivo. Antes de propor uma tecnologia, entendemos o problema,
-                as restrições, os fluxos existentes e o resultado que precisa ser alcançado.
-              </p>
-              <p>
-                Boas decisões técnicas reduzem risco hoje sem bloquear a evolução de amanhã.
-              </p>
-            </div>
-          </div>
-        </section>
-
         <section class="section" id="frentes">
           <div class="section-heading">
             <p class="eyebrow">Nossas frentes de atuação</p>
             <h2>Capacidades para todo o ciclo de software.</h2>
+            <p class="section-intro">
+              Abra cada frente para entender como apoiamos produtos, plataformas e equipes de
+              engenharia em diferentes momentos de evolução.
+            </p>
           </div>
 
-          <div class="card-grid">
-            <article class="service-card">
-              <h3>Descoberta e estratégia de produto</h3>
-              <p>
-                Transformamos desafios de negócio em uma visão clara de produto, com prioridades,
-                hipóteses e critérios objetivos de sucesso.
-              </p>
-              <ul>
-                <li>Product discovery e definição de oportunidades</li>
-                <li>Mapeamento de jornadas e processos</li>
-                <li>Backlog, BDD e critérios de aceite</li>
-                <li>Roadmap e validação incremental</li>
-              </ul>
-            </article>
+          <div class="service-accordion">
+            <details class="service-card" open>
+              <summary>
+                <span class="service-number">01</span>
+                <span>Descoberta e estratégia de produto</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Transformamos desafios de negócio em uma visão clara de produto, com prioridades, hipóteses e critérios objetivos de sucesso.</p>
+                <ul>
+                  <li>Product discovery e definição de oportunidades</li>
+                  <li>Mapeamento de jornadas e processos</li>
+                  <li>Backlog, BDD e critérios de aceite</li>
+                  <li>Roadmap e validação incremental</li>
+                </ul>
+              </div>
+            </details>
 
-            <article class="service-card">
-              <h3>Arquitetura e desenvolvimento</h3>
-              <p>
-                Projetamos e implementamos sistemas sustentáveis, alinhados às regras de negócio e
-                preparados para evoluir.
-              </p>
-              <ul>
-                <li>Web, mobile, backend e integrações</li>
-                <li>Clean Architecture, DDD e APIs</li>
-                <li>Aplicações cloud-native e multiplataforma</li>
-                <li>SDKs, bibliotecas e plataformas internas</li>
-              </ul>
-            </article>
+            <details class="service-card">
+              <summary>
+                <span class="service-number">02</span>
+                <span>Arquitetura e desenvolvimento</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Projetamos e implementamos sistemas sustentáveis, alinhados às regras de negócio e preparados para evoluir.</p>
+                <ul>
+                  <li>Web, mobile, backend e integrações</li>
+                  <li>Clean Architecture, DDD e APIs</li>
+                  <li>Aplicações cloud-native e multiplataforma</li>
+                  <li>SDKs, bibliotecas e plataformas internas</li>
+                </ul>
+              </div>
+            </details>
 
-            <article class="service-card">
-              <h3>Modernização de sistemas</h3>
-              <p>
-                Evoluímos aplicações legadas com segurança, preservando o negócio enquanto
-                reduzimos acoplamento, risco operacional e custo de mudança.
-              </p>
-              <ul>
-                <li>Diagnóstico arquitetural e técnico</li>
-                <li>Refatoração e migração incremental</li>
-                <li>Estratégias para dados e integrações legadas</li>
-                <li>Redução de dívida técnica com continuidade</li>
-              </ul>
-            </article>
+            <details class="service-card">
+              <summary>
+                <span class="service-number">03</span>
+                <span>Modernização de sistemas</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Evoluímos aplicações legadas com segurança, preservando o negócio enquanto reduzimos acoplamento, risco operacional e custo de mudança.</p>
+                <ul>
+                  <li>Diagnóstico arquitetural e técnico</li>
+                  <li>Refatoração e migração incremental</li>
+                  <li>Estratégias para dados e integrações legadas</li>
+                  <li>Redução de dívida técnica com continuidade</li>
+                </ul>
+              </div>
+            </details>
 
-            <article class="service-card">
-              <h3>Esteiras e plataforma de engenharia</h3>
-              <p>
-                Estruturamos o caminho entre o código e a produção para tornar entregas frequentes,
-                rastreáveis e repetíveis.
-              </p>
-              <ul>
-                <li>CI/CD e automação de releases</li>
-                <li>Infraestrutura como código e ambientes</li>
-                <li>Git workflows e governança de repositórios</li>
-                <li>Developer experience e inner source</li>
-              </ul>
-            </article>
+            <details class="service-card">
+              <summary>
+                <span class="service-number">04</span>
+                <span>Esteiras e plataforma de engenharia</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Estruturamos o caminho entre o código e a produção para tornar entregas frequentes, rastreáveis e repetíveis.</p>
+                <ul>
+                  <li>CI/CD e automação de releases</li>
+                  <li>Infraestrutura como código e ambientes</li>
+                  <li>Git workflows e governança de repositórios</li>
+                  <li>Developer experience e inner source</li>
+                </ul>
+              </div>
+            </details>
 
-            <article class="service-card">
-              <h3>Qualidade e observabilidade</h3>
-              <p>
-                Criamos mecanismos para prevenir regressões, entender o comportamento dos sistemas
-                e responder a falhas com contexto.
-              </p>
-              <ul>
-                <li>Estratégias de testes e qualidade contínua</li>
-                <li>Logs, métricas, traces e eventos de negócio</li>
-                <li>Confiabilidade, diagnóstico e resposta a incidentes</li>
-                <li>Segurança integrada ao ciclo de entrega</li>
-              </ul>
-            </article>
+            <details class="service-card">
+              <summary>
+                <span class="service-number">05</span>
+                <span>Qualidade e observabilidade</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Criamos mecanismos para prevenir regressões, entender o comportamento dos sistemas e responder a falhas com contexto.</p>
+                <ul>
+                  <li>Estratégias de testes e qualidade contínua</li>
+                  <li>Logs, métricas, traces e eventos de negócio</li>
+                  <li>Confiabilidade, diagnóstico e resposta a incidentes</li>
+                  <li>Segurança integrada ao ciclo de entrega</li>
+                </ul>
+              </div>
+            </details>
 
-            <article class="service-card">
-              <h3>Consultoria e evolução técnica</h3>
-              <p>
-                Apoiamos equipes de produto e engenharia em decisões técnicas, práticas de
-                desenvolvimento e modelos de entrega adequados ao seu contexto.
-              </p>
-              <ul>
-                <li>Assessment de arquitetura e processos</li>
-                <li>Governança e padrões de engenharia</li>
-                <li>Mentoria técnica aplicada ao produto</li>
-                <li>Planos de evolução com entregas mensuráveis</li>
-              </ul>
-            </article>
+            <details class="service-card">
+              <summary>
+                <span class="service-number">06</span>
+                <span>Consultoria e evolução técnica</span>
+                <span class="summary-icon" aria-hidden="true"></span>
+              </summary>
+              <div class="service-body">
+                <p>Apoiamos equipes de produto e engenharia em decisões técnicas, práticas de desenvolvimento e modelos de entrega adequados ao seu contexto.</p>
+                <ul>
+                  <li>Assessment de arquitetura e processos</li>
+                  <li>Governança e padrões de engenharia</li>
+                  <li>Mentoria técnica aplicada ao produto</li>
+                  <li>Planos de evolução com entregas mensuráveis</li>
+                </ul>
+              </div>
+            </details>
           </div>
         </section>
 
