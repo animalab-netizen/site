@@ -21,8 +21,8 @@ Idioma principal: português do Brasil
 
 - ODE: runtime open source para estruturar fluxos de aplicação e regras de negócio.
   https://animalab-netizen.github.io/ode-website/
-- DrManhatan: ecossistema open source de observabilidade multi-runtime.
-  https://animalab-netizen.github.io/drmanhatan-website/
+- DrManhattan: ecossistema open source de observabilidade multi-runtime.
+  https://animalab-netizen.github.io/drmanhattan-website/
 - MySnack: plataforma digital para cardápios e pedidos em praças de alimentação.
   https://mysnack-client-6fb29.web.app
 - GroupBy: plataforma geolocalizada com canais contextuais e eventos em tempo real.
