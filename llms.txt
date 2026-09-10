@@ -32,9 +32,8 @@ Idioma principal: português do Brasil
 - Argos: produto desenvolvido pela Ânima Lab para atender demandas da cliente Meta Sistemas de
   Energia Ltda., que atua com bancos de baterias. A ferramenta realiza captura e análise passiva de
   redes CAN em equipamentos industriais, com Raspberry Pi, SocketCAN, SQLite e interface web.
-- Iris: plataforma digital desenvolvida pela Ânima Lab como fornecedora contratada pela Glaz para
-  transformar uma operação antes conduzida por planilhas. Não há participação societária da Ânima
-  Lab na empresa contratante.
+- Iris: plataforma digital desenvolvida do zero pela Ânima Lab para a cliente Glaz, reunindo
+  descoberta, modelagem de regras de negócio, experiência e engenharia de produto.
 
 ## Contratação
 
