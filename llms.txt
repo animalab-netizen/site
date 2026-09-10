@@ -29,8 +29,12 @@ Idioma principal: português do Brasil
   https://groupby-me.web.app
 - ARKANUM: jogo narrativo multiplataforma.
   https://arkanum-guildas-de-reliquias.web.app/
-- Argos: ferramenta local para captura e análise passiva de redes CAN em equipamentos industriais,
-  executada em Raspberry Pi com SocketCAN, persistência SQLite e interface web.
+- Argos: produto desenvolvido pela Ânima Lab para atender demandas da cliente Meta Sistemas de
+  Energia Ltda., que atua com bancos de baterias. A ferramenta realiza captura e análise passiva de
+  redes CAN em equipamentos industriais, com Raspberry Pi, SocketCAN, SQLite e interface web.
+- Iris: plataforma digital desenvolvida pela Ânima Lab como fornecedora contratada pela Glaz para
+  transformar uma operação antes conduzida por planilhas. Não há participação societária da Ânima
+  Lab na empresa contratante.
 
 ## Contratação
 
