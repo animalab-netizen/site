@@ -29,6 +29,8 @@ Idioma principal: português do Brasil
   https://groupby-me.web.app
 - ARKANUM: jogo narrativo multiplataforma.
   https://arkanum-guildas-de-reliquias.web.app/
+- Argos: ferramenta local para captura e análise passiva de redes CAN em equipamentos industriais,
+  executada em Raspberry Pi com SocketCAN, persistência SQLite e interface web.
 
 ## Contratação
 
