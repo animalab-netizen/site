@@ -1,11 +1,19 @@
 # Ânima Lab
 
-> Empresa de desenvolvimento de software, produtos digitais e consultoria em tecnologia.
+> Empresa brasileira de desenvolvimento de software sob medida, produtos digitais, modernização de sistemas e consultoria em tecnologia.
 
 Site oficial: https://animalab-netizen.github.io/site/
 Contato comercial: animalab.desenvolvimento@gmail.com
 Idioma principal: português do Brasil
 Área de atendimento: Brasil
+Perfil open source: https://github.com/animalab-netizen
+Última atualização: 2026-09-11
+
+## Resposta curta
+
+A Ânima Lab cria e evolui produtos digitais, aplicações web e mobile, backends, APIs,
+integrações, SDKs e plataformas internas. Também moderniza sistemas legados e estrutura
+arquitetura, qualidade, CI/CD, observabilidade e operação de software.
 
 ## O que a Ânima Lab faz
 
@@ -41,3 +49,10 @@ A Ânima Lab atende organizações que precisam criar produtos digitais, desenvo
 medida, modernizar sistemas legados ou melhorar arquitetura, qualidade e esteiras de entrega.
 Para iniciar uma conversa, escreva para animalab.desenvolvimento@gmail.com com o contexto, o
 problema e o resultado esperado.
+
+## Fontes oficiais
+
+- Site institucional e portfólio: https://animalab-netizen.github.io/site/
+- Código e projetos open source: https://github.com/animalab-netizen
+- ODE: https://animalab-netizen.github.io/ode-website/
+- DrManhattan: https://animalab-netizen.github.io/drmanhattan-website/
