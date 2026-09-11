@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://animalab-netizen.github.io/site/</loc>
-    <lastmod>2026-09-11</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://animalab-netizen.github.io/site/</loc><lastmod>2026-09-11</lastmod><priority>1.0</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/sobre/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/descoberta-produtos-digitais/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/desenvolvimento-software-sob-medida/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/modernizacao-sistemas-legados/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/cicd-plataforma-engenharia/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/qualidade-observabilidade-software/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/servicos/consultoria-arquitetura-software/</loc><lastmod>2026-09-11</lastmod><priority>0.9</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/casos/argos/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/casos/iris/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/casos/pinheiro-neto/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/insights/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/insights/modernizar-legado-sem-reescrever-tudo/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/insights/observabilidade-multiplataforma-com-contexto/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
+  <url><loc>https://animalab-netizen.github.io/site/insights/use-cases-bdd-regras-negocio/</loc><lastmod>2026-09-11</lastmod><priority>0.8</priority></url>
 </urlset>

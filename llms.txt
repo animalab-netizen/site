@@ -56,3 +56,19 @@ problema e o resultado esperado.
 - Código e projetos open source: https://github.com/animalab-netizen
 - ODE: https://animalab-netizen.github.io/ode-website/
 - DrManhattan: https://animalab-netizen.github.io/drmanhattan-website/
+
+## Serviços
+
+- Discovery de produtos digitais: https://animalab-netizen.github.io/site/servicos/descoberta-produtos-digitais/
+- Desenvolvimento de software sob medida: https://animalab-netizen.github.io/site/servicos/desenvolvimento-software-sob-medida/
+- Modernização de sistemas legados: https://animalab-netizen.github.io/site/servicos/modernizacao-sistemas-legados/
+- CI/CD e plataforma de engenharia: https://animalab-netizen.github.io/site/servicos/cicd-plataforma-engenharia/
+- Qualidade e observabilidade: https://animalab-netizen.github.io/site/servicos/qualidade-observabilidade-software/
+- Consultoria em arquitetura: https://animalab-netizen.github.io/site/servicos/consultoria-arquitetura-software/
+
+## Estudos de caso e conteúdo técnico
+
+- Argos: https://animalab-netizen.github.io/site/casos/argos/
+- Iris: https://animalab-netizen.github.io/site/casos/iris/
+- Evolução de sistema .NET legado: https://animalab-netizen.github.io/site/casos/pinheiro-neto/
+- Insights técnicos: https://animalab-netizen.github.io/site/insights/
